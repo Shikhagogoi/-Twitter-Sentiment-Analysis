@@ -22,7 +22,7 @@ Screenshot (14).png
 
  4. Results
 - The model achieved decent performance in classifying sentiments, demonstrating how machine learning can be effectively applied to social media analytics.
- Screenshot (12).png
+  https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/a591702ab239c4fa81b6f0503487e9780c91da38/Screenshot%20(12).png
 The Classification Report provides a detailed evaluation of the model’s performance on binary sentiment classification (0 = Negative, 1 = Positive):
 
 Precision:
