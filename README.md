@@ -22,4 +22,28 @@ Technologies Used
  Results
 - The model achieved decent performance in classifying sentiments, demonstrating how machine learning can be effectively applied to social media analytics.
   Screenshot (12).png
-  
+The Classification Report provides a detailed evaluation of the model’s performance on binary sentiment classification (0 = Negative, 1 = Positive):
+
+Precision:
+- Class 0 (Negative): 79%
+- Class 1 (Positive): 77%
+Precision indicates how many of the predicted positive/negative tweets were actually correct.
+
+Recall:
+- Class 0: 76%
+- Class 1: 80%
+Recall measures how well the model identifies all actual positive/negative tweets.
+
+F1-Score:
+- A harmonic mean of precision and recall. The model performs fairly balanced for both classes (~0.77–0.78), indicating no severe bias toward either.
+
+Accuracy:
+- Overall accuracy is 78%, meaning 78% of total predictions are correct.
+
+Confusion Matrix:
+- Confusion matrix indicates a good balance in classification, with more than 75% correctness in both classes.
+
+  Screenshot (13).png
+The Receiver Operating Characteristic (ROC) curve demonstrates the model's ability to distinguish between positive and negative sentiments.
+AUC Score: 0.86
+A higher AUC reflects strong performance with good sensitivity and specificity.
