@@ -21,3 +21,5 @@ Technologies Used
 
  Results
 - The model achieved decent performance in classifying sentiments, demonstrating how machine learning can be effectively applied to social media analytics.
+  Screenshot (12).png
+  
