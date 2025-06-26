@@ -11,7 +11,7 @@ This project explores sentiment analysis on real-world Twitter data to classify 
 
 2. Dataset
 - The dataset used, includes pre-labeled 1.6 million tweets for training and testing the sentiment classifier. Tweets are collected from public Twitter data sources https://www.kaggle.com/datasets/kazanova/sentiment140.
-Screenshot (14).png
+https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/807cf0d2976cf1be1654e36420d4758111f2d5f7/Screenshot%20(14).png
 
 3. Technologies Used
 - Python, R
