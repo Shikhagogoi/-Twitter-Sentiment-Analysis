@@ -2,24 +2,25 @@
 
 This project explores sentiment analysis on real-world Twitter data to classify tweets as positive, negative, or neutral. Leveraging Natural Language Processing (NLP) techniques and machine learning models, the project aims to understand public opinion by analyzing tweet content.
 
-Key Features
+1. Key Features
 - Data preprocessing: cleaning, tokenization, stopword removal, stemming
 - Text vectorization using TF-IDF
 - Sentiment classification using Logistic Regression
 - Model evaluation with accuracy, precision, recall, and F1-score
 - Visualization of sentiment distribution using Matplotlib and Seaborn
 
-Dataset
-- The dataset used includes pre-labeled tweets for training and testing the sentiment classifier. Tweets are collected from public Twitter data sources for academic use.
+2. Dataset
+- The dataset used, includes pre-labeled 1.6 million tweets for training and testing the sentiment classifier. Tweets are collected from public Twitter data sources https://www.kaggle.com/datasets/kazanova/sentiment140.
+Screenshot (14).png
 
-Technologies Used
+3. Technologies Used
 - Python, R
 - Pandas, NumPy
 - Scikit-learn
 - NLTK
 - Matplotlib & Seaborn
 
- Results
+ 4. Results
 - The model achieved decent performance in classifying sentiments, demonstrating how machine learning can be effectively applied to social media analytics.
   Screenshot (12).png
 The Classification Report provides a detailed evaluation of the model’s performance on binary sentiment classification (0 = Negative, 1 = Positive):
