@@ -44,7 +44,7 @@ Accuracy:
 Confusion Matrix:
 - Confusion matrix indicates a good balance in classification, with more than 75% correctness in both classes.
 
-  Screenshot (13).png
+https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/807cf0d2976cf1be1654e36420d4758111f2d5f7/Screenshot%20(13).png
 The Receiver Operating Characteristic (ROC) curve demonstrates the model's ability to distinguish between positive and negative sentiments.
 AUC Score: 0.86
 A higher AUC reflects strong performance with good sensitivity and specificity.
