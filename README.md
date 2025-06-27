@@ -22,7 +22,7 @@ This project explores sentiment analysis on real-world Twitter data to classify 
 
  4. Results
 - The model achieved decent performance in classifying sentiments, demonstrating how machine learning can be effectively applied to social media analytics.
- ![Classification report] https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/a591702ab239c4fa81b6f0503487e9780c91da38/Screenshot%20(12).png
+ ![Classification report](https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/a591702ab239c4fa81b6f0503487e9780c91da38/Screenshot%20(12).png)
 The Classification Report provides a detailed evaluation of the model’s performance on binary sentiment classification (0 = Negative, 1 = Positive):
 
 Precision:
@@ -44,7 +44,7 @@ Accuracy:
 Confusion Matrix:
 - Confusion matrix indicates a good balance in classification, with more than 75% correctness in both classes.
 
-![ROC-AUC Curve]https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/807cf0d2976cf1be1654e36420d4758111f2d5f7/Screenshot%20(13).png
+![ROC-AUC Curve](https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/807cf0d2976cf1be1654e36420d4758111f2d5f7/Screenshot%20(13).png)
 The Receiver Operating Characteristic (ROC) curve demonstrates the model's ability to distinguish between positive and negative sentiments.
 AUC Score: 0.86
 A higher AUC reflects strong performance with good sensitivity and specificity.
