@@ -1,5 +1,5 @@
 # -Twitter-Sentiment-Analysis
-
+![dataset_cover](https://github.com/Shikhagogoi/-Twitter-Sentiment-Analysis/blob/52cae2969dcc92c4f05ed1ec8f103e37ed32836a/dataset-cover.jpeg)
 This project explores sentiment analysis on real-world Twitter data to classify tweets as positive, negative, or neutral. Leveraging Natural Language Processing (NLP) techniques and machine learning models, the project aims to understand public opinion by analyzing tweet content.
 
 1. Key Features
